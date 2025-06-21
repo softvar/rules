@@ -3,6 +3,12 @@ description:
 globs:
 alwaysApply: false
 ---
+---
+description:
+globs:
+alwaysApply: true
+---
+
 # 🛠️ Cursor IDE Rule: Implement Feature Flag with VWO FME SDK
 
 ## 🎯 Trigger Condition
